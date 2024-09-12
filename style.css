@@ -1,0 +1,85 @@
+
+body, h1, p, footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(to right, #96dfe4, #3f99af); 
+    color: #333;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 2.8em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #ffffff; 
+    font-weight: 700;
+}
+
+.titulo{
+    background-color: rgb(76, 148, 196);
+    height: 70px;
+
+}
+
+fieldset {
+    border: none;
+    border-radius: 12px;
+    padding: 20px;
+    background: linear-gradient(to right, #5cb6cc, #97dff1); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+main {
+    font-size: 1.2em;
+    line-height: 1.8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+
+img {
+    display: block;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(8, 51, 80, 0.2);
+    text-align: center;
+    border: #05a3ff;
+    border: 70px;
+    height: 400px;
+}
+
+
+footer {
+    padding: 45px;
+    background-color: rgb(76, 148, 196);
+    position:absolute;
+    width: 100%;
+    bottom:0%;
+}
+
+button {
+    margin-left: 840px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #477fac;
+    border: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+    
+head {
+    height: 90px;
+}
+
+
